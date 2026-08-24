@@ -1,3 +1,5 @@
+![Capa do projeto](images/arte_grafo_codigo.png)
+
 # 🕸️ GrafoCódigo
 
 **Visualize as dependências do seu projeto de código em um grafo interativo.**
